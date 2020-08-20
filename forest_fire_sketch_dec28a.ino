@@ -6,8 +6,8 @@ String dsen1;
 int dsenc1;
 
 // Update these with values suitable for your network.
-const char* ssid = "Yasoda Nandan";
-const char* password = "00223848";
+const char* ssid = ""; //enter wifi name
+const char* password = ""; //enter password
 const char* mqtt_server = "test.mosquitto.org";
 //const char* mqtt_server = "iot.eclipse.org";
 //const char* mqtt_server = "broker.mqtt-dashboard.com";
