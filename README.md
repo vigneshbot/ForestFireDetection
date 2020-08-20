@@ -23,4 +23,4 @@ The communication is done using MQTT since it is a lightweight publish-subscribe
 
 Fire detected
 
-![fire_detected](images/ouput.jpg)
+![fire_detected](images/output.jpg)
